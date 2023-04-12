@@ -87,6 +87,34 @@ content:
         - name: 电鸭社区
           description: 国内最早的远程工作社区，也是互联网工作者们的聚集地，非常适合设计开发小伙伴关注
           url: https://eleduck.com/
+    - name: 我的服务
+      sites:
+        - name: OpenWrt
+          description: OpenWrt
+          url: http://op.liyi.host:88/
+        - name: NAS
+          description: 威联通登录页面
+          url: http://nas.liyi.host:88/
+        - name: NASTOOL
+          description: 下电影电视剧的
+          url: http://nt.liyi.host:88/
+        - name: 树莓派
+          description: 树莓派webui管理页面
+          url: http://smp.liyi.host:88/
+    - name: 界面灵感
+      sites:
+        - name: 咕噜素材
+          description: 质量很高的设计素材网站（推荐）
+          url: https://www.gulusucai.com/
+        - name: 设计周刊
+          description: 最新设计资讯（每天更新）
+          url: https://www.shejizhoukan.com/
+        - name: 字体仓库
+          description: 最全的免费商用字体库
+          url: https://www.ziticangku.com/
+        - name: 电鸭社区
+          description: 国内最早的远程工作社区，也是互联网工作者们的聚集地，非常适合设计开发小伙伴关注
+          url: https://eleduck.com/
     - name: 社区资讯
       sites:
         - name: 雷锋网
